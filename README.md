@@ -1,2 +1,2 @@
 # Diffusion-model
-Diffusion model initially developed to teach my students about  text to image using diffusion as well as the underlying mecanisms of diffusion models
+Diffusion model initially developed to teach  students about  text to image translation using diffusion models as well as the underlying mecanisms of these models
